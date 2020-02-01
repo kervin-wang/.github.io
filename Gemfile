@@ -1,4 +1,4 @@
-# A sample Gemfile
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-# gem "rails"
+source "https://rubygems.org"
+gemspec
