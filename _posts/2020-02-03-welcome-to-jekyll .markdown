@@ -14,19 +14,19 @@ categories: vultr service
 
 点击加号后，会出现服务器的选择项，按照自己的需求选择，
 
-![image-20200202200315023](C:\Users\Administrator\Documents\GitHub\blog.github.io\_image\image-20200202200315023.png)
+![image-20200202200315023](https://raw.githubusercontent.com/kervin-wang/blog.github.io/master/_image/image-20200202200315023.png)
 
 选择到Additional Features之后，都可以不用勾选，默认配置
 
-![image-20200202200422696](C:\Users\Administrator\Documents\GitHub\blog.github.io\_image\image-20200202200422696.png)
+![image-20200202200422696](https://raw.githubusercontent.com/kervin-wang/blog.github.io/master/_image/image-20200202200422696.png)
 
 成功后会出现下面的画面
 
-![image-20200202200859994](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200202200859994.png)
+![image-20200202200859994](https://raw.githubusercontent.com/kervin-wang/blog.github.io/master/_image/image-20200202200859994.png)
 
 在图中黑色涂抹处点击，可以看到服务器的更加详细的信息
 
-![image-20200202200959848](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200202200959848.png)
+![image-20200202200959848](https://raw.githubusercontent.com/kervin-wang/blog.github.io/master/_image/image-20200202200959848.png)
 
 ### shadowsocket安装
 
@@ -54,11 +54,11 @@ chmod +x shadowsocks.sh
 
 安装过程如下：
 
-![16](C:\Users\Administrator\Desktop\16.png)
+![16](https://raw.githubusercontent.com/kervin-wang/blog.github.io/master/_image/16.png)
 
-![17](C:\Users\Administrator\Desktop\17.png)
+![17](https://raw.githubusercontent.com/kervin-wang/blog.github.io/master/_image/17.png)
 
-![18](C:\Users\Administrator\Desktop\18.png)
+![18](https://raw.githubusercontent.com/kervin-wang/blog.github.io/master/_image/18.png)
 
 等待安装完成
 
