@@ -10,7 +10,7 @@ categories: vultr service
 
 进入账户后，选择蓝色的加号，如下图
 
-![image-20200202200201462](https://github.com/kervin-wang/blog.github.io/blob/master/_image/image-20200202200201462.png)
+![image-20200202200201462](https://github.com/kervin-wang/blog.github.io/blob/master/_image/image-20200202200201462.png?raw=true)
 
 点击加号后，会出现服务器的选择项，按照自己的需求选择，
 
