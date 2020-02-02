@@ -10,15 +10,15 @@ categories: vultr service
 
 进入账户后，选择蓝色的加号，如下图
 
-![image-20200202200201462](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200202200201462.png)
+![image-20200202200201462](..\_image\image-20200202200201462.png)
 
 点击加号后，会出现服务器的选择项，按照自己的需求选择，
 
-![image-20200202200315023](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200202200315023.png)
+![image-20200202200315023](C:\Users\Administrator\Documents\GitHub\blog.github.io\_image\image-20200202200315023.png)
 
 选择到Additional Features之后，都可以不用勾选，默认配置
 
-![image-20200202200422696](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200202200422696.png)
+![image-20200202200422696](C:\Users\Administrator\Documents\GitHub\blog.github.io\_image\image-20200202200422696.png)
 
 成功后会出现下面的画面
 
